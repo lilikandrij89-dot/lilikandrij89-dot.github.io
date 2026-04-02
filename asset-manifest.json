@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lilikandrij89-dot.github.io/static/css/main.ba8c335f.css",
+    "main.js": "/lilikandrij89-dot.github.io/static/js/main.ee3ce6b6.js",
+    "index.html": "/lilikandrij89-dot.github.io/index.html",
+    "main.ba8c335f.css.map": "/lilikandrij89-dot.github.io/static/css/main.ba8c335f.css.map",
+    "main.ee3ce6b6.js.map": "/lilikandrij89-dot.github.io/static/js/main.ee3ce6b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba8c335f.css",
+    "static/js/main.ee3ce6b6.js"
+  ]
+}
