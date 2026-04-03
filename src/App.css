@@ -13,12 +13,6 @@ body {
   
 }
 
-input, button, select, textarea {
-  -webkit-appearance: none; 
-  appearance: none;
-  box-sizing: border-box; 
-}
-
 body::before, body::after {
   content: '';
   position: fixed;
